@@ -1,0 +1,64 @@
+body {
+  margin:0;
+  padding: 0;
+  text-align: center;
+}
+
+#exercise3 img {
+  height: 400px;
+  width: 600px;
+}
+
+.changed {
+  font-weight:bolder;
+  font-size: 36px;
+  text-transform: uppercase;
+  color: maroon;
+}
+
+h2 {
+  font-family: sans-serif;
+  font-size: 25px;
+  color: tomato;
+}
+
+#newDiv h1 {
+  background-color: tomato;
+  border: 2px solid black;
+  font-size: 24px;
+  width: 50%;
+  margin-left: 25%;
+}
+
+#newDiv h1.styleSwitch {
+  background-color: black;
+  border: 2px solid tomato;
+  color: white;
+  font-size: 24px;
+  width: 75%;
+}
+
+#exercise7 ul {
+  list-style-type: none;
+}
+
+#exercise9 {
+  height: 300px;
+  width: 300px;
+  background-color: steelblue;
+  margin-left: 25%;
+}
+
+#newNewNewDiv {
+  height: 500px;
+  width: 800px;
+  background-color: teal;
+  margin-left: 25%;
+}
+
+
+#divSnow {
+  height: 400px;
+  width: 100%;
+  background-color: black;
+}
